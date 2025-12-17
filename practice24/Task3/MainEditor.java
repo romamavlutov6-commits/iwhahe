@@ -10,3 +10,4 @@ public class MainEditor {
         System.out.println("Окно редактора запущено!");
     }
 }
+//dsdsd

@@ -16,3 +16,4 @@ public class TextDocument implements IDocument {
         System.out.println("Текстовый документ закрыт");
     }
 }
+//dsdsd

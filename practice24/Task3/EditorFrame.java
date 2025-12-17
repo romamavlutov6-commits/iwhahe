@@ -62,10 +62,7 @@ public class EditorFrame extends JFrame {
         add(menuPanel, BorderLayout.NORTH);
 
 
-        JLabel infoLabel = new JLabel(" Файловый менеджер: используйте кнопки выше");
-        infoLabel.setBackground(new Color(240, 240, 240));
-        infoLabel.setOpaque(true);
-        add(infoLabel, BorderLayout.SOUTH);
+
 
         setLocationRelativeTo(null);
     }

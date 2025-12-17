@@ -5,3 +5,4 @@ public interface IDocument {
     void save();
     void close();
 }
+//dsdsdsd
